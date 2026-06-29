@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.pClass {
+     color: black;
+     background-color: hsl(333, 89%, 79%);
+     font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+#two {
+     color:rgb(000, 000, 255);
+     font-size: 36px;
+}
+
+.specialClass {
+     font-size: 24px;
+}
+
+#four {
+     background-color:hsl(117, 97%, 80%);
+     font-size: 24px; 
+     font-weight: bold;
+}
